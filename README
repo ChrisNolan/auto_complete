@@ -17,7 +17,7 @@ the find method used to search for the records:
   auto_complete_for :post, :title, :limit => 15, :order => 'created_at DESC'
 
 For more examples, see script.aculo.us:
-* http://script.aculo.us/demos/ajax/autocompleter
-* http://script.aculo.us/demos/ajax/autocompleter_customized
+* http://demo.script.aculo.us/ajax/autocompleter
+* http://demo.script.aculo.us/ajax/autocompleter_customized
 
 Copyright (c) 2007 David Heinemeier Hansson, released under the MIT license   
